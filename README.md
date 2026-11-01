@@ -16,3 +16,5 @@ and an Isolation Forest machine learning model.
 ## How to run
 pip install pandas numpy scikit-learn matplotlib
 python detector.py
+
+> Note: All data is synthetically generated for demonstration. No real user or server data is used.
